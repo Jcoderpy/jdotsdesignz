@@ -377,8 +377,9 @@ button{
 
 .foot_wrapper
 {
-    background-color: rgb(185, 0, 0);
-    padding: 20px 0;
+    background-color: rgb(118, 0, 0);
+    padding: 10px 0;
+    align-items: center;
 
 }
 .foot_wrapper .footer-logo{
@@ -387,15 +388,16 @@ button{
     font-weight: 600;
 }
 .foot_wrapper .social-icon li{
-    margin: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .foot_wrapper .social-icon a{
-    width: 35px;
-    height: 35px;
+    width: 25px;
+    height: 25px;
     line-height: 30px;
-    font-size: 14px;
+    font-size: 18px;
     display: inline-block;
-    border: 2px solid white;
+    border: rgb(118, 0, 0);
     color: white;
     text-align: center;
     border-radius: 100%;
